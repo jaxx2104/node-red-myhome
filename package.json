@@ -1,6 +1,6 @@
 {
-    "name": "raspi-home",
-    "description": "Node-REDプロジェクト",
+    "name": "node-red-myhome",
+    "description": "node-red-myhome",
     "version": "0.0.1",
     "dependencies": {},
     "node-red": {
