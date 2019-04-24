@@ -1,0 +1,12 @@
+{
+    "name": "raspi-home",
+    "description": "Node-REDプロジェクト",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flows_raspi.json",
+            "credentialsFile": "flows_raspi_cred.json"
+        }
+    }
+}
